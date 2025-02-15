@@ -1,0 +1,4 @@
+show database;
+CREATE DATABASE ecommerce;
+show database;
+use ecommerce
