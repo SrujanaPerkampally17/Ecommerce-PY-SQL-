@@ -16,15 +16,15 @@ By leveraging SQL, Pandas, Seaborn, Matplotlib, and Plotly, we perform an end-to
 
 🛠 Technologies & Tools Used
 
-| 🛠 Tool             | 💡 Purpose                                               |
-| --------------------| --------------------------------------------------- -----|
-| SQL (MySQL)         | Querying, aggregations, ranking, and data transformation |
-| Python              | Data wrangling, analysis, and visualization              |
-| Pandas & NumPy      | Data cleaning and numerical computations                 |
-| Seaborn & Matplotlib| Static data visualizations                               |
-| Plotly              | Interactive dashboards & charts                          |
-| Jupyter Notebook    | Executing SQL queries and Python scripts                 |
-| MySQL Connector     | Integrating SQL with Python                              |
+### Tools & Purpose  
+
+- SQL (MySQL): Querying, aggregations, ranking, and data transformation.  
+- Python: Data wrangling, analysis, and visualization.  
+- Pandas & NumPy: Data cleaning and numerical computations.  
+- Seaborn & Matplotlib: Static data visualizations.  
+- Plotly: Interactive dashboards & charts.  
+- Jupyter Notebook: Executing SQL queries and Python scripts.  
+- MySQL Connector: Integrating SQL with Python.
 
 ---
 
