@@ -16,8 +16,8 @@ By leveraging SQL, Pandas, Seaborn, Matplotlib, and Plotly, we perform an end-to
 
 🛠 Technologies & Tools Used
 
-| 🛠 Tool                  | 💡 Purpose                                               |
-| ------------------------ | -------------------------------------------------------- |
+| 🛠 Tool             | 💡 Purpose                                               |
+| --------------------| --------------------------------------------------- -----|
 | SQL (MySQL)         | Querying, aggregations, ranking, and data transformation |
 | Python              | Data wrangling, analysis, and visualization              |
 | Pandas & NumPy      | Data cleaning and numerical computations                 |
@@ -64,8 +64,8 @@ By leveraging SQL, Pandas, Seaborn, Matplotlib, and Plotly, we perform an end-to
 
 📊 Key Visualizations for Business Insights:
 
-| 📈 Chart Type         🎯 Business Use Case                      |
-| -------------------  | ------------------------------------------ |
+| 📈 Chart Type   |  🎯 Business Use Case                     |
+| ----------------| -------------------------------------------|
 | Bar Charts      | Identify top-selling product categories    |
 |Sunburst Charts  | Visualize category-wise sales distribution |
 | Heatmaps        | Analyze seasonal variations in sales       |
